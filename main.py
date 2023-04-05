@@ -1,3 +1,5 @@
+# https://github.com/PedroHugoCoura/S202_L2 -------------> Link GitHub
+
 class Animal:
     def __init__(self, nome, idade, especie, cor, som):
         self.nome = nome
