@@ -1,0 +1,20 @@
+{
+  "id": "3",
+  "nome": "Elefante",
+  "especie": "Mamífero",
+  "idade": "14",
+  "habitat": [
+    {
+      "id": "3",
+      "nome": "Floresta",
+      "tipoAmbiente": "Ameno",
+      "cuidador": {
+        "id": "3",
+        "nome": "Lucas",
+        "documento": "5324009223"
+      }
+    }
+  ]
+}
+
+
